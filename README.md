@@ -150,13 +150,13 @@ After     ──►  Practice on real projects + LeetCode Database problems
 ## 🤝 Credits
 
 All credit goes to **Eng. Baraa** for the original SQL course content.  
-These notes are purely my own simplified re-explanation in Arabic for learning purposes.
+These notes are purely my own simplified re-explanation for learning purposes.
 
 ---
 
 <div align="center">
 
 ⭐ **If these notes helped you, consider starring the repo!**  
-📢 Share it with anyone learning SQL in Arabic
+📢 Share it with anyone learning SQL 
 
 </div>
