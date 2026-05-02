@@ -1,7 +1,7 @@
 # 📘 SQL — From Zero to Hero
 
-> **This repository** contains my personal Arabic notes and explanations for the **SQL course by Eng. Baraa**.  
-> I re-explained everything in Arabic in my own simple way to make it easier for beginners.  
+> **This repository** contains my personal notes and explanations for the **SQL course by Eng. Baraa**.  
+> I re-explained everything in my own simple way to make it easier for beginners.  
 > All credit for the original course goes to **Eng. Baraa** 🙏
 
 ---
@@ -9,7 +9,7 @@
 ## ⚠️ Disclaimer
 
 > This is **not** the official course material.  
-> These are my own **study notes**, written in Arabic, based on **Eng. Baraa's SQL course**.  
+> These are my own **study notes**, based on **Eng. Baraa's SQL course**.  
 > The goal is to simplify the concepts for Arabic-speaking beginners.
 
 ---
